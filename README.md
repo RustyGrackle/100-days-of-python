@@ -173,14 +173,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
 
-![certificate](certificate.jpg)
-
-This certificate above verifies that Lenar Gasimov successfully completed the course 
-[100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code)  on 05/20/2021 as taught by Dr. Angela Yu on Udemy. 
-The certificate indicates the entire course was completed as validated by the student. 
-The course duration represents the total video hours of the course at time of most recent completion.
-
 ---
 
-@lenargasimov 🐍 2021
+@RustyGrackle 🐍 2021
 
